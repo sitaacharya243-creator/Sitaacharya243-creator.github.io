@@ -1,4 +1,4 @@
-# Sitaacharya243.github.io
+# https://sitaacharya243-creator.github.io
 My personal AI Chatbot project
 # 🤖 My AI Chatbot
 
@@ -7,7 +7,7 @@ A smart AI-powered chatbot built to answer questions instantly and assist users 
 ---
 
 ## 🌐 Live Demo
-👉 [Click here to try the chatbot](https://yourusername.github.io)
+👉 [Click here to try the chatbot](https://sitaacharya243-creator.github.io)
 
 ---
 
